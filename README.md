@@ -1,0 +1,1 @@
+Welcome to the C++ Codes Repository! This repository contains various C++ programs and examples that demonstrate different concepts and algorithms in C++. The aim is to provide a comprehensive collection of C++ code snippets that can be used for learning, reference, and practical application.
